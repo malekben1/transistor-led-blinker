@@ -3,7 +3,7 @@ LED Flasher — Astable Multivibrator
 A small PCB project featuring two alternating blinking LEDs, based on a classic
 two-transistor astable multivibrator circuit (no microcontroller required).
 
-📷 Overview
+
 <img width="364" height="457" alt="image" src="https://github.com/user-attachments/assets/be06843d-4a53-4e59-9da8-a9641b658149" />
 <img width="339" height="436" alt="image" src="https://github.com/user-attachments/assets/72986fb6-d219-44fd-9259-dc2d40561b6e" />
 
